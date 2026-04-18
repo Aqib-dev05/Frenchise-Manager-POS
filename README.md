@@ -49,9 +49,9 @@ JWT_SECRET=your_jwt_secret_key_here
 JWT_REFRESH_SECRET=your_refresh_secret_key_here
 
 # Cloudinary Integration
-CLOUDINARY_CLOUD_NAME=dvfdxbzem
-CLOUDINARY_API_KEY=787642545436233
-CLOUDINARY_API_SECRET=vf1Zz3O-tBVtt4e0ZIx-5z4kn84
+CLOUDINARY_CLOUD_NAME=_____
+CLOUDINARY_API_KEY=_________
+CLOUDINARY_API_SECRET=_________
 ```
 
 *(Note: Create a `.env.local` inside `/frontend` pointing to your backend `NEXT_PUBLIC_API_URL=http://localhost:5000/api`)*
